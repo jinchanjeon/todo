@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>하잉</h1>
+      <h1>하잉 진찬</h1>
       <TodoList/>
     </>
   )
